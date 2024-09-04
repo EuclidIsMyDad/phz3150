@@ -1,0 +1,43 @@
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Israel Herrera
+          Email: is588396@ucf.edu
+	  Phone: 4078970337
+          Major: Photonics & Opitcs
+           Year: 2024
+             ID: 3872344
+
+How did you hear about this course?
+Flowchart for my major
+Do you have a laptop you can bring to class, install software on, etc.?
+yes
+What operating system and version does it run?
+Fedora Linux :)
+How much free disk space does it have?
+70GB
+What operating systems are you comfortable working in?
+Linux, Linux and them more linux... Preferably ARCH or FEDORA
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+Intro to Programming concepts C#, C, Java 1 and 2
+Have you ever programmed a computer?
+yes
+   In what language(s)?
+   lua, DOCKERFILE/Python, bashscripts, zsh scripts
+
+   Summarize your experience:
+   12/12 would recommend
+
+Have you taken statistics or probability?
+yes
+
+Why are you taking this course?
+because it seems extremely usefull in general
+
+Are there particular topics you hope to learn?
+python in general
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience: no
+Have you ever been involved with a science club or similar?  If so,
+describe: Math Club, I led the chess events.

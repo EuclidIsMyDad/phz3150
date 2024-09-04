@@ -1,0 +1,61 @@
+Israel Herrera
+Log for PHZ 3150, Spring 2024
+*****IN: Wed Aug 28 10:15:00 EST 2024
+Opened TextEdit, started this log, saved as:
+/home/quickspell/Documents/phz3150/logs/0-phz3150-israelherrera.log
+
+
+
+Important Notes:
+
+  - Get documents sorted with admissions
+  - Take notes on matrix algebra
+  - Think of the new room setup
+  - consider optons for standing desk because sitting is big pooper scooper
+
+-- END OF 'Important Notes' --
+
+Programing Notes:
+  
+
+  *** Molten-Nvim ***
+
+  Showing as loaded however the plugin is not properlly loading when I run the desired :UpdateRemotePlugins
+  this error occurs 
+
+function remote#host#UpdateRemotePlugins[6]..<SNR>53_RegistrationCommands[15]..remote#host#Require[10]..provider#python3#Require[1]..provider#Poll, line 6
+Vim(let):E475: Invalid value for argument cmd: 'v:null' is not executable                                                                                                
+function remote#host#UpdateRemotePlugins[6]..<SNR>53_RegistrationCommands[15]..remote#host#Require[10]..provider#python3#Require, line 1                                 
+Vim(return):E5108: Error executing lua function remote#host#UpdateRemotePlugins[6]..<SNR>53_RegistrationCommands[15]..remote#host#Require[10]..provider#python3#Require[1
+]..provider#Poll, line 17: Failed to load python3 host. You can try to see what happened by starting nvim with $NVIM_PYTHON_LOG_FILE set and opening the generated log fi
+le. Also, the host stderr is available in messages.^@stack traceback:^@^I[C]: at 0xaaaaf28fbf04                                                                          
+remote/host: generated rplugin manifest: /home/quickspell/.local/share/lvim/rplugin.vim                                                                                  
+Press ENTER or type command to continue  
+
+python version is 3.9.7
+
+
+--- end of 'Programing Notes' ---
+*****OUT: Wed Aug 28 10:30:00 EST 2024
+
+Log for PHZ 3150, Spring 2024
+*****IN: Wed Sep 5 11:22:00 EST 2024
+Opened TextEdit, started this log, saved as:
+/home/quickspell/Documents/phz3150/logs/0-phz3150-israelherrera.log
+
+Correct Syntax, Incorrect Characters:
+
+"Thes3 instrucktions h4ve way to0 m4ny w0rds, and nothing makes any sense lmao."
+Incorrect Syntax, Correct Characters:
+
+"Natural because doesn't work langauge capitol letters each, all comma insignificant differences.""
+Explanation:
+
+Natural languages are inefficient for programming because their flexibility and tolerance
+for variations (like capitalization and punctuation) lead to ambiguity.
+A single misplaced character can completely alter the meaning in a programming context, 
+making it impossible for a compiler to understand and execute instructions correctly.
+
+
+
+
