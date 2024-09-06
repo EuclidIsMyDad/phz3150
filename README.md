@@ -1,2 +1,2 @@
 # phz3150
-All words and no instructions make Israel a dull boy
+-Testing to make sure (shining line was the preveious test)
